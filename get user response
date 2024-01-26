@@ -1,0 +1,60 @@
+{
+    "code": 200,
+    "Message": "Success",
+    "data": [
+        {
+            "id": 2,
+            "name": "Wali Warsi",
+            "email": "arif@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 3,
+            "name": "Ali Warsi",
+            "email": "ali@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 5,
+            "name": "Ali Warsi",
+            "email": "ali@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 6,
+            "name": "Ali Warsi",
+            "email": "ali@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 7,
+            "name": "Ali Warsi",
+            "email": "ali@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 8,
+            "name": "Ali Warsi",
+            "email": "ali@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 9,
+            "name": "Ali Warsi",
+            "email": "ali@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 10,
+            "name": "Ali Warsi",
+            "email": "ali_warsi@gmail.com",
+            "user_type": "agent"
+        },
+        {
+            "id": 12,
+            "name": "Ali Warsi",
+            "email": "anwar@gmail.com",
+            "user_type": "agent"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "code": 200,
+    "Message": "Success",
+    "data": [
+        {
+            "uuid": "be6d8e59-e787-4b91-8378-8b9ad37f8632",
+            "plot_no": "R-005",
+            "category": "residential",
+            "sub_category": "R",
+            "status": "available"
+        },
+        {
+            "uuid": "aa87832b-c8a9-4ef0-ae1f-38128748fb8f",
+            "plot_no": "R-006",
+            "category": "residential",
+            "sub_category": "R",
+            "status": "available"
+        },
+        {
+            "uuid": "6301fce4-42d8-4e93-aa53-d8a7f22bcd17",
+            "plot_no": "A-007",
+            "category": "residential",
+            "sub_category": "A",
+            "status": "available"
+        },
+        {
+            "uuid": "9c7cb4f9-fb28-45c4-9be9-f3dafe5faf96",
+            "plot_no": "A-008",
+            "category": "residential",
+            "sub_category": "A",
+            "status": "available"
+        },
+        {
+            "uuid": "c402fc87-7300-461c-9ded-0a899070b24a",
+            "plot_no": "A-009",
+            "category": "residential",
+            "sub_category": "A",
+            "status": "available"
+        },
+        {
+            "uuid": "cf1b4c73-8109-4797-a911-8a01078300a3",
+            "plot_no": "L-004",
+            "category": "residential",
+            "sub_category": "L",
+            "status": "available"
+        },
+        {
+            "uuid": "165863f6-6e41-4752-95bb-9d04882ab57e",
+            "plot_no": "L-005",
+            "category": "residential",
+            "sub_category": "L",
+            "status": "available"
+        },
+        {
+            "uuid": "a2a90039-22c2-4a43-9df0-aef0c9771745",
+            "plot_no": "L-006",
+            "category": "residential",
+            "sub_category": "L",
+            "status": "available"
+        },
+        {
+            "uuid": "3a6d0796-f468-45ee-a51a-2291f121b29c",
+            "plot_no": "C-001",
+            "category": "commercial",
+            "sub_category": "COMM1",
+            "status": "available"
+        },
+        {
+            "uuid": "19a12071-bf97-46c7-a02c-f75d5fdde0e7",
+            "plot_no": "C-002",
+            "category": "commercial",
+            "sub_category": "COMM1",
+            "status": "available"
+        },
+        {
+            "uuid": "be31614f-c2e2-41f7-aa15-51b47b27019e",
+            "plot_no": "C-003",
+            "category": "commercial",
+            "sub_category": "COMM1",
+            "status": "available"
+        },
+        {
+            "uuid": "061b0e9f-f83a-49a4-a487-c1313723cae1",
+            "plot_no": "CC-001",
+            "category": "commercial",
+            "sub_category": "COMM20",
+            "status": "available"
+        },
+        {
+            "uuid": "ad7cf8f2-3c81-421f-9f6e-b12daffcf9d6",
+            "plot_no": "CC-002",
+            "category": "commercial",
+            "sub_category": "COMM20",
+            "status": "available"
+        },
+        {
+            "uuid": "058ce79a-1862-4285-bca7-7187811e9372",
+            "plot_no": "CC-003",
+            "category": "commercial",
+            "sub_category": "COMM20",
+            "status": "available"
+        },
+        {
+            "uuid": "806b1a96-3d0b-491c-8663-156ee061f7f8",
+            "plot_no": "SB-001",
+            "category": "commercial",
+            "sub_category": "SB",
+            "status": "available"
+        },
+        {
+            "uuid": "9369a496-45a0-4ffe-ad24-7facad4a2271",
+            "plot_no": "SB-002",
+            "category": "commercial",
+            "sub_category": "SB",
+            "status": "available"
+        },
+        {
+            "uuid": "95d66c27-8139-4cfd-abf4-df03dfb51104",
+            "plot_no": "SB-003",
+            "category": "commercial",
+            "sub_category": "SB",
+            "status": "available"
+        },
+        {
+            "uuid": "a8b9da28-039e-4dfe-81ea-5101dcc36130",
+            "plot_no": "SHOP-001",
+            "category": "commercial",
+            "sub_category": "SHOP",
+            "status": "available"
+        },
+        {
+            "uuid": "dba06df5-e9a1-433c-864c-dfc4748ddf66",
+            "plot_no": "SHOP-002",
+            "category": "commercial",
+            "sub_category": "SHOP",
+            "status": "available"
+        },
+        {
+            "uuid": "1dd8838d-db30-4896-b671-6209181a41b7",
+            "plot_no": "SHOP-003",
+            "category": "commercial",
+            "sub_category": "SHOP",
+            "status": "available"
+        },
+        {
+            "uuid": "ba1e3832-4fe8-4249-9886-87b0d286cdce",
+            "plot_no": "SHOP-004",
+            "category": "commercial",
+            "sub_category": "SHOP",
+            "status": "available"
+        },
+        {
+            "uuid": "09d3fe26-3f1b-4166-877b-0c37c7e6968a",
+            "plot_no": "SHOP-005",
+            "category": "commercial",
+            "sub_category": "SHOP",
+            "status": "available"
+        },
+        {
+            "uuid": "03a38af7-b3d9-47ab-8d13-54fe42ed6769",
+            "plot_no": "SHOP-006",
+            "category": "commercial",
+            "sub_category": "SHOP",
+            "status": "available"
+        }
+    ]
+}

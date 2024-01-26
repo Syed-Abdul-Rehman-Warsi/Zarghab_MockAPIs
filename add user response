@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "Message": "Success",
+    "data": {
+        "status": true,
+        "result": {
+            "id": 12,
+            "uuid": "50297e16-3b95-4874-a002-d70b177942c2",
+            "email": "anwar@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "code": 200,
+    "Message": "Success",
+    "data": [
+        {
+            "id": 1,
+            "reason": "Tea",
+            "amount": 3000,
+            "user_id": "86b9c83d-3f7a-4a27-a730-ed603648a3ac",
+            "dt": "2023-12-30T08:34:48.607336"
+        },
+        {
+            "id": 35,
+            "reason": "Food",
+            "amount": 1000,
+            "user_id": "86b9c83d-3f7a-4a27-a730-ed603648a3ac",
+            "dt": "2023-12-30T08:36:40.209155"
+        },
+        {
+            "id": 36,
+            "reason": "Cleaning",
+            "amount": 5000,
+            "user_id": "86b9c83d-3f7a-4a27-a730-ed603648a3ac",
+            "dt": "2023-12-30T08:36:59.751672"
+        },
+        {
+            "id": 34,
+            "reason": "Tea",
+            "amount": 30000,
+            "user_id": "86b9c83d-3f7a-4a27-a730-ed603648a3ac",
+            "dt": "2023-12-30T08:36:18.284692"
+        },
+        {
+            "id": 37,
+            "reason": "Cleaning",
+            "amount": 5000,
+            "user_id": "86b9c83d-3f7a-4a27-a730-ed603648a3ac",
+            "dt": "2024-01-18T17:46:10.664505"
+        }
+    ]
+}

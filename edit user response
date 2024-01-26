@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "Message": "Success",
+    "data": {
+        "status": true,
+        "result": {
+            "id": 12,
+            "name": "50297e16-3b95-4874-a002-d70b177942c2",
+            "email": "anwar@gmail.com",
+            "user_type": "Syed Shah Warsi"
+        }
+    }
+}

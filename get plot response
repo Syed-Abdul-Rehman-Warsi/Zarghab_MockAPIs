@@ -1,0 +1,28 @@
+{
+    "code": 200,
+    "Message": "Success",
+    "data": {
+        "Available Plot": {
+            "L": 3,
+            "R": 2,
+            "A": 3,
+            "COMM1": 3,
+            "COMM20": 3,
+            "SB": 3,
+            "SHOP": 6
+        },
+        "Booked Plot": {
+            "L": 0,
+            "R": 1,
+            "A": 0,
+            "COMM1": 0,
+            "COMM20": 0,
+            "SB": 0,
+            "SHOP": 0
+        },
+        "Total Plot": {
+            "Booked": 1,
+            "Available": 23
+        }
+    }
+}
